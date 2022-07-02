@@ -25,5 +25,10 @@ https://leetcode.com/problems/combination-sum/
 
 ![image](https://user-images.githubusercontent.com/102652030/177009186-f2cd33d4-a122-4279-9a9c-c6ed103bc1ec.png)
 
+560. Subarray Sum Equals K
+https://leetcode.com/problems/subarray-sum-equals-k/
+
+![image](https://user-images.githubusercontent.com/102652030/177014374-a509c2eb-fc6f-465b-acd1-2ae6482cdc5e.png)
+
 
 
