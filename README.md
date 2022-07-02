@@ -15,3 +15,9 @@ The answer is the product of these maximum values in horizontal cuts and vertica
 
 ![image](https://user-images.githubusercontent.com/102652030/176989600-3e703924-ae15-4c47-b859-dd423d85a04d.png)
 
+49. Group Anagrams
+https://leetcode.com/problems/group-anagrams/
+
+![image](https://user-images.githubusercontent.com/102652030/176994199-6316fc6d-1758-4754-b0d8-c31dc8482626.png)
+
+
