@@ -47,6 +47,10 @@ https://leetcode.com/problems/subsets-ii/
 
 ![image](https://user-images.githubusercontent.com/102652030/177039657-eb17bc6b-b067-4337-b8e8-8fa563d21543.png)
 
+46. Permutations
+https://leetcode.com/problems/permutations/
+
+![image](https://user-images.githubusercontent.com/102652030/177041224-79badcbc-b281-47b8-9b7d-3d0e6e405fde.png)
 
 
 
