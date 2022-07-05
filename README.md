@@ -52,5 +52,9 @@ https://leetcode.com/problems/permutations/
 
 ![image](https://user-images.githubusercontent.com/102652030/177041224-79badcbc-b281-47b8-9b7d-3d0e6e405fde.png)
 
+128. Longest Consecutive Sequence
+https://leetcode.com/problems/longest-consecutive-sequence/
+
+![image](https://user-images.githubusercontent.com/102652030/177272174-a47acca2-0079-434f-9b33-54209bd25ec0.png)
 
 
